@@ -1,0 +1,1 @@
+A pretty simple CRUD showcasing a realtime to-do list app to be used for distributed purposes, such as managing personal deliverables. Built through Flask and Pusher.
